@@ -1,23 +1,61 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import React from 'react';
+import { ReactComponent as LtsIcon } from "./images/support.svg";
+import { ReactComponent as StandardIcon } from "./images/coffee.svg";
+
+import timelineElements from "./data/timelineElements";
+
+import {
+  VerticalTimeline,
+  VerticalTimelineElement,
+} from "react-vertical-timeline-component";
+
+import "react-vertical-timeline-component/style.min.css";
 
 function App() {
+  let ltsIconStyles = { background: "#06D6A0" };
+  let standardIconStyles = { background: "#f9c74f" };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1 className="title">Java Version & Features</h1>
+      <VerticalTimeline>
+        {timelineElements.map((element) => {
+          let isLtsIcon = element.icon === "lts";
+          let showButton =
+            element.buttonText !== undefined &&
+            element.buttonText !== null &&
+            element.buttonText !== "";
+
+          return (
+            <VerticalTimelineElement
+              key={element.id}
+              date={element.releaseDate}
+              dateClassName="date"
+              iconStyle={isLtsIcon ? ltsIconStyles : standardIconStyles}
+              icon={isLtsIcon ? <LtsIcon /> : <StandardIcon />}
+            >
+              <h3 className="vertical-timeline-element-title">
+                {element.name}
+              </h3>
+              <h5 className="vertical-timeline-element-subtitle">
+                {element.extra}
+              </h5>
+              <p id="description">{element.description}</p>
+              {showButton && (
+                <a
+                  className={`button ${
+                    isLtsIcon ? "ltsButton" : "standardButton"
+                  }`}
+                  href={element.website}
+                >
+                  {element.buttonText}
+                </a>
+              )}
+            </VerticalTimelineElement>
+          );
+        })}
+      </VerticalTimeline>
     </div>
   );
 }

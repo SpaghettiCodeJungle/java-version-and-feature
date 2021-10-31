@@ -1,38 +1,63 @@
-.App {
+body {
+  background: #3da3d5;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: rgb(53, 53, 53);
+}
+
+.title {
+  font-size: 15em;
   text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  color: #f8f8ff;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h3 {
+  padding-top: 0.25em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25),
+    0 0.4em 1.25em 0 rgba(0, 0, 0, 0.15) !important;
+  padding: 2em 3em !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.date {
+  color: rgb(201, 251, 255);
+}
+
+#description {
+  margin: 1.5em 0 2em 0;
+}
+
+.button {
+  text-decoration: none;
+  padding: 0.5em 1em;
+  border-radius: 5px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.ltsButton {
+  background-color: #06d6a0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+.ltsButton:hover {
+  background-color: #0ac593;
+}
+
+.standardButton {
+  background-color: #f9c74f;
+}
+
+.standardButton:hover {
+  background-color: #f3bc3c;
+}
+
+@media only screen and (max-width: 1700px) {
+  .vertical-timeline-element-date {
+    display: block !important;
+    float: none !important;
+    color: rgb(44, 44, 44);
+    margin-top: 1.5em;
   }
 }
