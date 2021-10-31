@@ -2,7 +2,7 @@
   "name": "java-version-and-feature",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SpaghettiCodeJungle.github.io/java-version-and-feature",
+  "homepage": "https://spaghetticodejungle.github.io/java-version-and-feature",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
