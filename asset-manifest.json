@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/java-version-and-feature/static/css/main.a617e044.chunk.css",
-    "main.js": "/java-version-and-feature/static/js/main.e096be3b.chunk.js",
-    "main.js.map": "/java-version-and-feature/static/js/main.e096be3b.chunk.js.map",
-    "runtime-main.js": "/java-version-and-feature/static/js/runtime-main.e1e6d11d.js",
-    "runtime-main.js.map": "/java-version-and-feature/static/js/runtime-main.e1e6d11d.js.map",
-    "static/js/2.4ff15025.chunk.js": "/java-version-and-feature/static/js/2.4ff15025.chunk.js",
-    "static/js/2.4ff15025.chunk.js.map": "/java-version-and-feature/static/js/2.4ff15025.chunk.js.map",
-    "static/js/3.34368f07.chunk.js": "/java-version-and-feature/static/js/3.34368f07.chunk.js",
-    "static/js/3.34368f07.chunk.js.map": "/java-version-and-feature/static/js/3.34368f07.chunk.js.map",
+    "main.css": "/java-version-and-feature/static/css/main.c7acae14.chunk.css",
+    "main.js": "/java-version-and-feature/static/js/main.2e95db67.chunk.js",
+    "main.js.map": "/java-version-and-feature/static/js/main.2e95db67.chunk.js.map",
+    "runtime-main.js": "/java-version-and-feature/static/js/runtime-main.0c2cac1f.js",
+    "runtime-main.js.map": "/java-version-and-feature/static/js/runtime-main.0c2cac1f.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/java-version-and-feature/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.14722a9f.chunk.js": "/java-version-and-feature/static/js/2.14722a9f.chunk.js",
+    "static/js/2.14722a9f.chunk.js.map": "/java-version-and-feature/static/js/2.14722a9f.chunk.js.map",
+    "static/js/3.9ad3158e.chunk.js": "/java-version-and-feature/static/js/3.9ad3158e.chunk.js",
+    "static/js/3.9ad3158e.chunk.js.map": "/java-version-and-feature/static/js/3.9ad3158e.chunk.js.map",
     "index.html": "/java-version-and-feature/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/java-version-and-feature/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4ff15025.chunk.js.LICENSE.txt": "/java-version-and-feature/static/js/2.4ff15025.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/java-version-and-feature/static/media/logo.6ce24c58.svg"
+    "static/css/2.2e99a83d.chunk.css.map": "/java-version-and-feature/static/css/2.2e99a83d.chunk.css.map",
+    "static/css/main.c7acae14.chunk.css.map": "/java-version-and-feature/static/css/main.c7acae14.chunk.css.map",
+    "static/js/2.14722a9f.chunk.js.LICENSE.txt": "/java-version-and-feature/static/js/2.14722a9f.chunk.js.LICENSE.txt",
+    "static/media/coffee.a12de45c.svg": "/java-version-and-feature/static/media/coffee.a12de45c.svg",
+    "static/media/support.5eeb64e2.svg": "/java-version-and-feature/static/media/support.5eeb64e2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1e6d11d.js",
-    "static/js/2.4ff15025.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e096be3b.chunk.js"
+    "static/js/runtime-main.0c2cac1f.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.14722a9f.chunk.js",
+    "static/css/main.c7acae14.chunk.css",
+    "static/js/main.2e95db67.chunk.js"
   ]
 }
