@@ -5,12 +5,13 @@ let timelineElements = [
       extra: "LTS version",
       description:
         "A huge release with many new features",
+      features: [{featureName: "Stream API", website: "https:\\www.google.com"},{featureName: "Lambda Expressions", website: "https:\\www.google.com"},{featureName:"Date and Time API", website: "https:\\www.google.com"},{featureName: "Base64 encoding and decoding", website: "https:\\www.google.com"},{featureName: "Optional Class", website: "https:\\www.google.com"},],  
       buttonText: "Java 8 feature Examples",
-      website: "",
+      website: "https://github.com/SpaghettiCodeJungle",
       releaseDate: "March 18, 2014",
       icon: "lts",
     },
-    {
+ /*   {
         id: 2,
         name: "Java SE 9",
         extra: "",
@@ -108,7 +109,7 @@ let timelineElements = [
         website: "",
         releaseDate: "September 14, 2021",
         icon: "lts",
-      },       
+      },*/       
   ];
   
   export default timelineElements;

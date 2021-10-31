@@ -18,9 +18,9 @@ function App() {
 
   return (
     <div>
-      <h1 className="title">Java Version & Features</h1>
+      <h1 className="title">Java Versions & Features</h1>
       <VerticalTimeline>
-        {timelineElements.map((element) => {
+        {timelineElements.map((element,index) => {
           let isLtsIcon = element.icon === "lts";
           let showButton =
             element.buttonText !== undefined &&
@@ -42,6 +42,13 @@ function App() {
                 {element.extra}
               </h5>
               <p id="description">{element.description}</p>
+              {element.features.map((c, i) => (
+      <div key={i}>
+        <p><a href={c.website}>{c.featureName}</a></p>
+        <hr />
+      </div>
+    ))}
+ <p></p>
               {showButton && (
                 <a
                   className={`button ${
