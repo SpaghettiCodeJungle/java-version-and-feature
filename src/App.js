@@ -20,6 +20,7 @@ function App() {
     <div>
       <h1 className="title">Java Versions & Features</h1>
       <h2 className="abstract">Modern Java</h2>
+      <h2 className="abstract">Coming Soon ...</h2>
       <VerticalTimeline>
         {timelineElements.map((element,index) => {
           let isLtsIcon = element.icon === "lts";
