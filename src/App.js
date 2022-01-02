@@ -19,6 +19,7 @@ function App() {
   return (
     <div>
       <h1 className="title">Java Versions & Features</h1>
+      <h2 className="abstract">Modern Java</h2>
       <VerticalTimeline>
         {timelineElements.map((element,index) => {
           let isLtsIcon = element.icon === "lts";
@@ -45,9 +46,11 @@ function App() {
               {element.features.map((c, i) => (
       <div key={i}>
         <p><a href={c.website}>{c.featureName}</a></p>
-        <hr />
+      <p></p>
       </div>
     ))}
+<p></p>
+ <p></p>
  <p></p>
               {showButton && (
                 <a
