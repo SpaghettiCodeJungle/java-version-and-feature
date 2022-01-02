@@ -12,6 +12,13 @@ body {
   color: #f8f8ff;
 }
 
+.abstract {
+  font-size: 6em;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  color: #f8f8ff;
+}
+
 h3 {
   padding-top: 0.25em;
 }
