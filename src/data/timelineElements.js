@@ -1,5 +1,5 @@
 let timelineElements = [
-    {
+    /*{
       id: 1,
       name: "Java SE 8",
       extra: "LTS version",
@@ -13,7 +13,7 @@ let timelineElements = [
       website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-8",
       releaseDate: "March 18, 2014",
       icon: "lts",
-    },/*
+    },
     {
         id: 2,
         name: "Java SE 9",
