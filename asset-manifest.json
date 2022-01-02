@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/java-version-and-feature/static/css/main.c7acae14.chunk.css",
-    "main.js": "/java-version-and-feature/static/js/main.480323b4.chunk.js",
-    "main.js.map": "/java-version-and-feature/static/js/main.480323b4.chunk.js.map",
+    "main.css": "/java-version-and-feature/static/css/main.dc0ffcaf.chunk.css",
+    "main.js": "/java-version-and-feature/static/js/main.4912d857.chunk.js",
+    "main.js.map": "/java-version-and-feature/static/js/main.4912d857.chunk.js.map",
     "runtime-main.js": "/java-version-and-feature/static/js/runtime-main.0c2cac1f.js",
     "runtime-main.js.map": "/java-version-and-feature/static/js/runtime-main.0c2cac1f.js.map",
     "static/css/2.2e99a83d.chunk.css": "/java-version-and-feature/static/css/2.2e99a83d.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.9ad3158e.chunk.js.map": "/java-version-and-feature/static/js/3.9ad3158e.chunk.js.map",
     "index.html": "/java-version-and-feature/index.html",
     "static/css/2.2e99a83d.chunk.css.map": "/java-version-and-feature/static/css/2.2e99a83d.chunk.css.map",
-    "static/css/main.c7acae14.chunk.css.map": "/java-version-and-feature/static/css/main.c7acae14.chunk.css.map",
+    "static/css/main.dc0ffcaf.chunk.css.map": "/java-version-and-feature/static/css/main.dc0ffcaf.chunk.css.map",
     "static/js/2.14722a9f.chunk.js.LICENSE.txt": "/java-version-and-feature/static/js/2.14722a9f.chunk.js.LICENSE.txt",
     "static/media/coffee.a12de45c.svg": "/java-version-and-feature/static/media/coffee.a12de45c.svg",
     "static/media/support.5eeb64e2.svg": "/java-version-and-feature/static/media/support.5eeb64e2.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.0c2cac1f.js",
     "static/css/2.2e99a83d.chunk.css",
     "static/js/2.14722a9f.chunk.js",
-    "static/css/main.c7acae14.chunk.css",
-    "static/js/main.480323b4.chunk.js"
+    "static/css/main.dc0ffcaf.chunk.css",
+    "static/js/main.4912d857.chunk.js"
   ]
 }
