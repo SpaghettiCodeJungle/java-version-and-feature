@@ -18,9 +18,8 @@ function App() {
 
   return (
     <div>
-      <h1 className="title">Java Versions & Features</h1>
+      <a href="https://spaghetticodejungle.com/java-versions-and-features"><h1 className="title">Java Versions & Features</h1></a>
       <h2 className="abstract">Modern Java</h2>
-      <h2 className="abstract">Coming Soon ...</h2>
       <VerticalTimeline>
         {timelineElements.map((element,index) => {
           let isLtsIcon = element.icon === "lts";
