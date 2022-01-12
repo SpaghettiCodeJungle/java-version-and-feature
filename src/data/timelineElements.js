@@ -13,24 +13,24 @@ let timelineElements = [
       website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-8",
       releaseDate: "March 18, 2014",
       icon: "lts",
-    },/*
+    },
     {
         id: 2,
         name: "Java SE 9",
         extra: "",
         description:
-          "A huge release with many new features",
+          "Java 9 offers a lot of enhancements on Java 8 features.",
           features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "JShell",
+                website: "https://spaghetticodejungle.com/java-9-jshell/"
 
             }],
         buttonText: "Java 9 feature Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-9",
         releaseDate: "September 21, 2017",
         icon: "standard",
-      },
+      },/*
       {
         id: 3,
         name: "Java SE 10",
