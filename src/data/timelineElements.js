@@ -30,24 +30,24 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-9",
         releaseDate: "September 21, 2017",
         icon: "standard",
-      },/*
+      },
       {
         id: 3,
         name: "Java SE 10",
         extra: "",
         description:
-          "A huge release with many new features",
+          "Smaller release with not that many exciting features",
         features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "var",
+                website: "https://spaghetticodejungle.com/java-10-var/"
 
             }],  
         buttonText: "Java 10 feature Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-10",
         releaseDate: "March 20, 2018",
         icon: "standard",
-      },
+      },/*
       {
         id: 4,
         name: "Java SE 11",
