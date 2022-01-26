@@ -36,7 +36,7 @@ let timelineElements = [
         name: "Java SE 10",
         extra: "",
         description:
-          "Smaller release with not that many exciting features",
+          "Smaller release with not that many exciting features.",
         features: [
             {          
               featureName: "var",
@@ -47,24 +47,24 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-10",
         releaseDate: "March 20, 2018",
         icon: "standard",
-      },/*
+      },
       {
         id: 4,
         name: "Java SE 11",
         extra: "LTS version",
         description:
-          "A huge release with many new features",
+          "First Long Term Support (LTS) after Java 8. Small release from a developer perspective.",
         features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "New String Methods",
+                website: "https://spaghetticodejungle.com/java-11-new-string-methods/"
 
             }],
         buttonText: "Java 11 feature Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-11",
         releaseDate: "September 25, 2018",
         icon: "lts",
-      },
+      },/*
       {
         id: 5,
         name: "Java SE 12",
