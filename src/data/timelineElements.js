@@ -64,24 +64,24 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-11",
         releaseDate: "September 25, 2018",
         icon: "lts",
-      },/*
+      },
       {
         id: 5,
         name: "Java SE 12",
         extra: "",
         description:
-          "A huge release with many new features",
+          "A few new features for developers.",
         features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "Teeing Collector",
+                website: "https://spaghetticodejungle.com/java-12-teeing-collector/"
 
             }],
         buttonText: "Java 12 feature Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/SpaghettiCodeJungle/lists/java-12",
         releaseDate: "March 19, 2019",
         icon: "standard",
-      },
+      },/*
       {
         id: 6,
         name: "Java SE 13",
