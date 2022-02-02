@@ -78,7 +78,7 @@ let timelineElements = [
 
             }],
         buttonText: "Java 12 feature Examples",
-        website: "https://github.com/SpaghettiCodeJungle/lists/java-12",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-12",
         releaseDate: "March 19, 2019",
         icon: "standard",
       },/*
