@@ -9,7 +9,7 @@ let timelineElements = [
           featureName: "Stream API", 
           website: "https://spaghetticodejungle.com/java-8-streams-api"
         }],  
-      buttonText: "Java 8 feature Examples",
+      buttonText: "Java 8 Examples",
       website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-8",
       releaseDate: "March 18, 2014",
       icon: "lts",
@@ -26,7 +26,7 @@ let timelineElements = [
                 website: "https://spaghetticodejungle.com/java-9-jshell/"
 
             }],
-        buttonText: "Java 9 feature Examples",
+        buttonText: "Java 9 Examples",
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-9",
         releaseDate: "September 21, 2017",
         icon: "standard",
@@ -43,7 +43,7 @@ let timelineElements = [
                 website: "https://spaghetticodejungle.com/java-10-var/"
 
             }],  
-        buttonText: "Java 10 feature Examples",
+        buttonText: "Java 10 Examples",
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-10",
         releaseDate: "March 20, 2018",
         icon: "standard",
@@ -60,7 +60,7 @@ let timelineElements = [
                 website: "https://spaghetticodejungle.com/java-11-new-string-methods/"
 
             }],
-        buttonText: "Java 11 feature Examples",
+        buttonText: "Java 11 Examples",
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-11",
         releaseDate: "September 25, 2018",
         icon: "lts",
@@ -77,7 +77,7 @@ let timelineElements = [
                 website: "https://spaghetticodejungle.com/java-12-teeing-collector/"
 
             }],
-        buttonText: "Java 12 feature Examples",
+        buttonText: "Java 12 Examples",
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-12",
         releaseDate: "March 19, 2019",
         icon: "standard",
@@ -94,7 +94,7 @@ let timelineElements = [
                 website: ""
 
             }],
-        buttonText: "Java 13 feature Examples",
+        buttonText: "Java 13 Examples",
         website: "https://github.com/SpaghettiCodeJungle",
         releaseDate: "September 17, 2019",
         icon: "standard",
@@ -111,7 +111,7 @@ let timelineElements = [
                 website: ""
 
             }],
-        buttonText: "Java 14 feature Examples",
+        buttonText: "Java 14 Examples",
         website: "https://github.com/SpaghettiCodeJungle",
         releaseDate: "March 17, 2020",
         icon: "standard",
@@ -128,7 +128,7 @@ let timelineElements = [
                 website: ""
 
             }],
-        buttonText: "Java 15 feature Examples",
+        buttonText: "Java 15 Examples",
         website: "https://github.com/SpaghettiCodeJungle",
         releaseDate: "September 15, 2020",
         icon: "standard",
@@ -145,7 +145,7 @@ let timelineElements = [
                 website: ""
 
             }],
-        buttonText: "Java 16 feature Examples",
+        buttonText: "Java 16 Examples",
         website: "https://github.com/SpaghettiCodeJungle",
         releaseDate: "March 16, 2021",
         icon: "standard",
@@ -162,7 +162,7 @@ let timelineElements = [
                 website: ""
 
             }],
-        buttonText: "Java 17 feature Examples",
+        buttonText: "Java 17 Examples",
         website: "https://github.com/SpaghettiCodeJungle",
         releaseDate: "September 14, 2021",
         icon: "lts",
