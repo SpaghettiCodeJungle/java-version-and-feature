@@ -81,24 +81,24 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-12",
         releaseDate: "March 19, 2019",
         icon: "standard",
-      },/*
+      },
       {
         id: 6,
         name: "Java SE 13",
         extra: "",
         description:
-          "A huge release with many new features",
+          "Not many notable developer features",
         features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "Dynamic CDS Archives",
+                website: "https://spaghetticodejungle.com/java-13-dynamic-cds-archives/"
 
             }],
         buttonText: "Java 13 Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/SpaghettiCodeJungle/lists/java-13",
         releaseDate: "September 17, 2019",
         icon: "standard",
-      },  
+      }, /*  
       {
         id: 7,
         name: "Java SE 14",
