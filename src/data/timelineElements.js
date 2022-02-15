@@ -93,6 +93,11 @@ let timelineElements = [
               featureName: "Dynamic CDS Archives",
                 website: "https://spaghetticodejungle.com/java-13-dynamic-cds-archives/"
 
+            },
+            {          
+              featureName: "Uncommitted Unused Memory",
+                website: "https://spaghetticodejungle.com/java-13-uncommitted-unused-memory/"
+
             }],
         buttonText: "Java 13 Examples",
         website: "https://github.com/SpaghettiCodeJungle/lists/java-13",
