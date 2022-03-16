@@ -120,24 +120,24 @@ let timelineElements = [
         website: "https://github.com/SpaghettiCodeJungle/lists/java-14",
         releaseDate: "March 17, 2020",
         icon: "standard",
-      }, /* 
+      },  
       {
         id: 8,
         name: "Java SE 15",
         extra: "",
         description:
-          "A huge release with many new features",
+          "A small release with a few new features for developers.",
         features: [
             {          
-              featureName: "",
-                website: ""
+              featureName: "Text Blocks",
+                website: "https://spaghetticodejungle.com/java-15-text-blocks/"
 
             }],
         buttonText: "Java 15 Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/SpaghettiCodeJungle/lists/java-15",
         releaseDate: "September 15, 2020",
         icon: "standard",
-      },  
+      }, /*  
       {
         id: 9,
         name: "Java SE 16",
