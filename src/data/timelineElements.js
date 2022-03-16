@@ -100,7 +100,7 @@ let timelineElements = [
 
             }],
         buttonText: "Java 13 Examples",
-        website: "https://github.com/SpaghettiCodeJungle/lists/java-13",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-13",
         releaseDate: "September 17, 2019",
         icon: "standard",
       },  
@@ -117,7 +117,7 @@ let timelineElements = [
 
             }],
         buttonText: "Java 14 Examples",
-        website: "https://github.com/SpaghettiCodeJungle/lists/java-14",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-14",
         releaseDate: "March 17, 2020",
         icon: "standard",
       },  
@@ -134,7 +134,7 @@ let timelineElements = [
 
             }],
         buttonText: "Java 15 Examples",
-        website: "https://github.com/SpaghettiCodeJungle/lists/java-15",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-15",
         releaseDate: "September 15, 2020",
         icon: "standard",
       }, /*  
