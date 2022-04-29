@@ -168,7 +168,7 @@ let timelineElements = [
 
             }],
         buttonText: "Java 17 Examples",
-        website: "https://github.com/SpaghettiCodeJungle",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-17",
         releaseDate: "September 14, 2021",
         icon: "lts",
       },      
