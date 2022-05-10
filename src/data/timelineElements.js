@@ -171,7 +171,24 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-17",
         releaseDate: "September 14, 2021",
         icon: "lts",
-      },      
+      },
+      {
+        id: 11,
+        name: "Java SE 18",
+        extra: "",
+        description:
+          "A few features for devs",
+        features: [
+            {          
+              featureName: "Java 18 - Sealed Classes",
+                website: "https://spaghetticodejungle.com/java-18-simple-http-server/"
+
+            }],
+        buttonText: "Java 18 Examples",
+        website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-18",
+        releaseDate: "March 22, 2022",
+        icon: "standard",
+      }     
   ];
   
   export default timelineElements;
