@@ -160,7 +160,7 @@ let timelineElements = [
         name: "Java SE 17",
         extra: "LTS version",
         description:
-          "Nice features for devs",
+          "Nice features for devs.",
         features: [
             {          
               featureName: "Java 17 - Sealed Classes",
@@ -177,7 +177,7 @@ let timelineElements = [
         name: "Java SE 18",
         extra: "",
         description:
-          "A few features for devs",
+          "A few features for devs.",
         features: [
             {          
               featureName: "Java 18 - Sealed Classes",
