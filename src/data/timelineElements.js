@@ -180,7 +180,7 @@ let timelineElements = [
           "A few features for devs.",
         features: [
             {          
-              featureName: "Java 18 - Sealed Classes",
+              featureName: "Java 18 - Simple http Server",
                 website: "https://spaghetticodejungle.com/java-18-simple-http-server/"
 
             }],
@@ -188,7 +188,20 @@ let timelineElements = [
         website: "https://github.com/stars/SpaghettiCodeJungle/lists/java-18",
         releaseDate: "March 22, 2022",
         icon: "standard",
-      }     
+      },
+      {
+        id: 12,
+        name: "Java SE 19",
+        extra: "",
+        description:
+          "More preview features for Devs, than actual features.",
+        features: [
+            {          
+              featureName: "Java 19 - New method to create pre-allocated HashMaps()",
+                website: "https://spaghetticodejungle.com/java-19-new-method-to-create-pre-allocated-hashmaps/"
+
+            }],
+    }     
   ];
   
   export default timelineElements;
